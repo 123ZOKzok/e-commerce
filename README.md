@@ -1,4 +1,4 @@
-This is a Next.js, MUI v5, React, Redux  and Typescript e-commerce project . You can use this to start your Next.js + MUI + Typescript development faster and easier.
+This is a Next.js, MUI v5, React, Redux  and Typescript e-commerce project .
 
 ## Getting Started
 
